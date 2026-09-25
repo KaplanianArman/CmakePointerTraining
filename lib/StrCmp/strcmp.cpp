@@ -10,5 +10,5 @@ int StrCmp(const char* fst, const char* sec) {
         fst++;
         sec++;
     }
-    return fst - sec;
+    return *fst - *sec;
 }
