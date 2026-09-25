@@ -1,0 +1,2 @@
+add_library(StrCopy strcopy.cpp)
+target_include_directories(StrCopy PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
