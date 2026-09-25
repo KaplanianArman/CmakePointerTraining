@@ -1,7 +1,7 @@
 #include <cstddef>
 #include "strcopy.h"
 
-char* strcopy(const char* from, char* to, size_t n) {
+char* StrCopy(const char* from, char* to, size_t n) {
     //записывает from в to
     char* start = to;
     size_t i = 0;

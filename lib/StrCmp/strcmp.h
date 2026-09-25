@@ -1,4 +1,4 @@
 #ifndef STRCMP
 #define STRCMP
-int strcmp(const char* fst, const char* sec);
+int StrCmp(const char* fst, const char* sec);
 #endif

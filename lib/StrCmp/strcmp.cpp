@@ -1,6 +1,6 @@
 #include "strcmp.h"
 
-int strcmp(const char* fst, const char* sec) {
+int StrCmp(const char* fst, const char* sec) {
     /*
     вернет отрицательное число, если fst < sec
     вернет 0, если fst == sec
