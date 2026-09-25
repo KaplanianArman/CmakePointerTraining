@@ -1,0 +1,2 @@
+add_library(StrCmp strcmp.cpp)
+target_link_directories(StrCmp PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
