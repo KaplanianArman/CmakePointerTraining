@@ -1,0 +1,2 @@
+add_library(StrLen strlen.cpp)
+target_include_directories(StrLen PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})

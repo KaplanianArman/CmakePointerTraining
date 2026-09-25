@@ -1,3 +1,4 @@
 add_subdirectory(StrCmp)
 add_subdirectory(StrCopy)
 add_subdirectory(StrStr)
+add_subdirectory(StrLen)
